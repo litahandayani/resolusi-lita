@@ -4,3 +4,5 @@ Resolusi Lita
 - Belajar Data Science 
 - Memperkuat dan mempelajari materi yang sudah dipelajari
 - Membuat website sendiri
+- Mengerti data analyst
+- 
